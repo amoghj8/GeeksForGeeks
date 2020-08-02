@@ -1,2 +1,3 @@
 #Ignore cpp executable files
-*.exe
+Arrays/2.FindtheMissingNumber
+Arrays/1.LargestSumContiguousSubarray
